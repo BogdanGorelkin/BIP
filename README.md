@@ -12,7 +12,7 @@ Project relaized in [BIP](https://www-verimag.imag.fr/Rigorous-Design-of-Compone
 - [x] Installling BIP
   - [x] Installing the compiler
   - [x] Declaring global variables
-  - [ ] Connecting C ++ to BIP
+  - [x] Connecting C ++ to BIP
 - [x] Running initial-helloworld project
 
 <a name="menu"></a>
