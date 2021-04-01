@@ -91,6 +91,5 @@ To run the program run the command:
  $ ./build/system
 ```
 <div align="center">
-![image](https://user-images.githubusercontent.com/74824667/113238790-bfcddc80-92a9-11eb-972a-7dd6cc7446f1.png)
-
+<img src="https://user-images.githubusercontent.com/74824667/113238790-bfcddc80-92a9-11eb-972a-7dd6cc7446f1.png"></br>
 </div>
