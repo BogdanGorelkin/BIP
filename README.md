@@ -91,5 +91,5 @@ To run the program run the command:
  $ ./build/system
 ```
 <div align="center">
-![running the HelloWorld project](https://user-images.githubusercontent.com/74824667/113238669-8301e580-92a9-11eb-9e1e-e2ef6a40aae0.png)
+![image](https://user-images.githubusercontent.com/74824667/113238669-8301e580-92a9-11eb-9e1e-e2ef6a40aae0.png)
 </div>
