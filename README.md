@@ -99,7 +99,7 @@ To run the program run the command:
 </div>
 
 ##  2. Blinky Blocks implementation in BIP<a name="2"></a>  [|↑|](#menu)
-### [What are blink blocks](#2_1) </br>
+### What are blink blocks<a name="2_1"></a></br>
 ### [Implementation of one Blinky Block in the BIP](#2_1) </br>
 ### [Implementation few Blinky Blocks in a one system](#2_3) </br>
 
