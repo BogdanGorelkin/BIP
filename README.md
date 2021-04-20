@@ -105,7 +105,7 @@ To run the program run the command:
 <img src="https://gitlab.inria.fr/Spirals/bip-visualsim/-/blob/master/Images/blinky_alone.png"></br>
 </div>
 
-####Overview
+#### Overview
 Each module has its own computational power, as well as sensors and actuators such as RGB leds, that can glow in different colors according to the programmer’s will. Blocks can detect their current orientation and impulses such as shaking or tapping. They are also able to play and capture sounds.
 
 All the blocks of a system run the same program. They are attached to each other using magnets. A block can have up to 6 neighbors with which he can communicate through serial links on the block faces (neighbor-to-neighbor communication model). Only one block needs to be connected to a power supply to a power the whole ensemble. Power is distributed through the system using dedicated pins.
