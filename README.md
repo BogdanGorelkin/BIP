@@ -20,6 +20,10 @@ Project relaized in [BIP](https://www-verimag.imag.fr/Rigorous-Design-of-Compone
 1. [Getting started with BIP](#1)
    1. [Installing the BIP](#1_1) </br>
    2. [Running the first project](#1_2) 
+2. [Blinky Blocks implementation in BIP](#2)
+   1. [What are blinky blocks](#2_1) </br>
+   2. [Implementation of one Blinky Block in the BIP](#2_2) </br>
+   3. [Implementation few Blinky Blocks in a one system](#2_3) </br>
 
 ##  1. Getting started with BIP<a name="1"></a>  [|↑|](#menu)
 _BIP (Behavior, Interaction, Priority)_ is a general framework encompassing rigorous design. It uses the BIP language and an associated toolset supporting the design flow. The BIP language is a notation which allows building complex systems by coordinating the behavior of a set of atomic components. Behavior is described as a Petri net extended with data and functions described in C.
@@ -93,3 +97,10 @@ To run the program run the command:
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74824667/113238790-bfcddc80-92a9-11eb-972a-7dd6cc7446f1.png"></br>
 </div>
+
+##  2. Blinky Blocks implementation in BIP<a name="2"></a>  [|↑|](#menu)
+### [What are blink blocks](#2_1) </br>
+### [Implementation of one Blinky Block in the BIP](#2_1) </br>
+### [Implementation few Blinky Blocks in a one system](#2_3) </br>
+
+
